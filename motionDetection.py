@@ -1,3 +1,6 @@
+#Motion Detection Algorithm
+#By Lucy Lewark, Nolan Hoefner, Dreyton Price
+
 import cv2
 import numpy as np
 import datetime
