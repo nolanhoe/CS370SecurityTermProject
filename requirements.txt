@@ -2,3 +2,8 @@ numpy
 scikit-build
 opencv-python
 playsound3
+MIMEMultipart
+MIMEText
+MIMEImage 
+os
+smtplib 
